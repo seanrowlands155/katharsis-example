@@ -1,0 +1,7 @@
+katharsis:
+  domainName: http://localhost:9090
+  pathPrefix: /api
+
+server:
+  context-path: /
+  port: 9090
