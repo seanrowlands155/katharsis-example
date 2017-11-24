@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f5157fa-0137-4bb5-80c3-be9428fd593f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../json-api-katharsis-helloworld/.idea/checkstyle-idea.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../json-api-katharsis-helloworld/.idea/preferred-vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../json-api-katharsis-helloworld/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../json-api-katharsis-helloworld/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../json-api-katharsis-helloworld/src/main/java/com/sean/katharsis/SpringKatharsisApplication.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../json-api-katharsis-helloworld/src/main/java/com/sean/katharsis/client/GreetingClient.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../json-api-katharsis-helloworld/src/main/java/com/sean/katharsis/domain/model/Greeting.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../json-api-katharsis-helloworld/src/main/java/com/sean/katharsis/domain/model/Message.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../json-api-katharsis-helloworld/src/main/java/com/sean/katharsis/domain/repository/GreetingMessageRelationshipRepository.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../json-api-katharsis-helloworld/src/main/java/com/sean/katharsis/domain/repository/GreetingRepositoryImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../json-api-katharsis-helloworld/src/main/java/com/sean/katharsis/domain/repository/MessageGreetingRelationshipRepository.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../json-api-katharsis-helloworld/src/main/java/com/sean/katharsis/domain/repository/MessageRepository.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../json-api-katharsis-helloworld/src/main/java/com/sean/katharsis/domain/repository/persistence/BaseRepo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../json-api-katharsis-helloworld/src/main/java/com/sean/katharsis/domain/repository/persistence/GreetingsRepo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../json-api-katharsis-helloworld/src/main/java/com/sean/katharsis/domain/repository/persistence/MessagesRepo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../json-api-katharsis-helloworld/src/main/java/com/sean/katharsis/server/KatharsisController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../json-api-katharsis-helloworld/src/main/resources/application.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../json-api-katharsis-helloworld/src/main/resources/logback.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../json-api-katharsis-helloworld/src/test/java/com/sean/katharsis/SpringKatharsisApplicationTest.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -44,7 +26,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpringKatharsisApplication.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SpringKatharsisApplication.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sean/katharsis/SpringKatharsisApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
@@ -94,7 +76,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -288,7 +270,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -694,7 +676,7 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1098,24 +1080,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding>
-              <marker date="1511486832454" expanded="true" signature="112:264" ph="{...}" />
-              <marker date="1511486832454" expanded="true" signature="128:258" ph="{&quot;type&quot;: &quot;greetings&quot;...}" />
-              <marker date="1511486832454" expanded="true" signature="200:248" ph="{&quot;content&quot;: &quot;test3&quot;...}" />
-              <marker date="1511486832454" expanded="true" signature="412:676" ph="{...}" />
-              <marker date="1511486832454" expanded="true" signature="446:653" ph="{&quot;type&quot;: &quot;messages&quot;...}" />
-              <marker date="1511486832454" expanded="true" signature="529:639" ph="{&quot;title&quot;: &quot;billy&quot;...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sean/katharsis/client/GreetingClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="580">
@@ -1145,6 +1109,24 @@
         <state relative-caret-position="240">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1511486832454" expanded="true" signature="112:264" ph="{...}" />
+              <marker date="1511486832454" expanded="true" signature="128:258" ph="{&quot;type&quot;: &quot;greetings&quot;...}" />
+              <marker date="1511486832454" expanded="true" signature="200:248" ph="{&quot;content&quot;: &quot;test3&quot;...}" />
+              <marker date="1511486832454" expanded="true" signature="412:676" ph="{...}" />
+              <marker date="1511486832454" expanded="true" signature="446:653" ph="{&quot;type&quot;: &quot;messages&quot;...}" />
+              <marker date="1511486832454" expanded="true" signature="529:639" ph="{&quot;title&quot;: &quot;billy&quot;...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

@@ -12,6 +12,12 @@ release.properties
 .project
 .settings/
 
+# IntelliJ#
+###########
+.idea/
+.iml
+workspace.xml
+
 # Logs #
 ########
 *.log
